@@ -14,4 +14,4 @@ ord as (
 
 select ord.*
 from ord
-inner join cust on cust.c_custkey = ord.o_custkey;
+inner join cust on cust.c_custkey = ord.o_custkey
