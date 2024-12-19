@@ -6,18 +6,18 @@ sources:
    schema: tpch_sf100
    tables: 
     
-    - name: CUSTOMER
+    - name: customer
 
-    - name: LINEITEM
+    - name: lineitem
     
-    - name: NATION
+    - name: nation
     
-    - name: ORDERS
+    - name: orders
     
-    - name: PART
+    - name: part
     
-    - name: PARTSUPP
+    - name: partsupp
     
-    - name: REGION
+    - name: region
     
-    - name: SUPPLIER
+    - name: supplier
